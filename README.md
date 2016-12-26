@@ -12,4 +12,6 @@ This is a sample readme
 
 ## How to Contribute
 
+Well I guess you write some code dummy
+
 ## Deployment
