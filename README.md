@@ -17,3 +17,8 @@ Well I guess you write some code dummy
 ## Deployment
 
 upload to github, and use it
+
+## Copyright
+
+2016 me!
+
