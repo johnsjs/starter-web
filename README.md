@@ -6,6 +6,8 @@ This repository is for showing how Git and GitHub work.  It is quite a simple re
 
 Sample website with plenty of files for demos
 
+emergency ifx after stash
+
 ## Introduction
 
 This is a sample readme and includes nothing useful
