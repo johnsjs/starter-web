@@ -1,3 +1,4 @@
 bollocks.txt
 *.log
 log/
+*.orig
