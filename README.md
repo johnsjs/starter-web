@@ -14,6 +14,8 @@ This is a sample readme and includes nothing useful
 
 Well I guess you write some code dummy
 
+Please fork this repository then issue change requests for review
+
 ## Deployment
 
 upload to github, and use it
