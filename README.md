@@ -8,10 +8,12 @@ Sample website with plenty of files for demos
 
 ## Introduction
 
-This is a sample readme
+This is a sample readme and includes nothing useful
 
 ## How to Contribute
 
 Well I guess you write some code dummy
 
 ## Deployment
+
+upload to github, and use it
