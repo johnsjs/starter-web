@@ -4,6 +4,7 @@
 # TEAM
 
     <name> -- <role> -- <twitter>
+	john stirling	developer	no twitter
 
 # THANKS
 
