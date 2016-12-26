@@ -22,5 +22,5 @@ upload to github, and use it
 
 ## Copyright
 
-2016 me!
+2016  John Stirling, all rights rsvd
 
